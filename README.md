@@ -1,9 +1,8 @@
 2- Cryptoverse - Crypto market news and information
 
-
-![Cryptoverse 1](https://github.com/abdi-z/InternalMD/assets/92116477/9933b18f-a4f5-4f10-bf13-db93cb38d4e6)
-![Crypto 2 1](https://github.com/abdi-z/InternalMD/assets/92116477/a509ecff-45af-4796-b1f3-d851c88bb13b)
-![Crypto 3](https://github.com/abdi-z/InternalMD/assets/92116477/f1ff30b9-14c2-4e25-ae30-c2cd6768d485)
+![Cryptoverse 1](https://github.com/TurrabH/Cryptoverse/assets/151545901/1f685c96-e24c-4184-a2ea-8f28cbe821bc)
+![Crypto 2 1](https://github.com/TurrabH/Cryptoverse/assets/151545901/4116bdee-f93e-4cc2-bae5-8ddd33069818)
+![Crypto 3](https://github.com/TurrabH/Cryptoverse/assets/151545901/d4cd12d5-d868-4c91-b151-09048e288672)
 
 
 
